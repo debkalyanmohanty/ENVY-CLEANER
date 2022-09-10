@@ -1295,6 +1295,10 @@ section {
 /*--------------------------------------------------------------
 # Team
 --------------------------------------------------------------*/
+.changesInteam{
+  margin-left: 17%;
+  text-align: center;
+}
 .team .member {
   margin-bottom: 20px;
   overflow: hidden;
